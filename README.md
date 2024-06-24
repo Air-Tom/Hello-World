@@ -1,3 +1,3 @@
-# Hello-World
-Этот репозиторий предназначен для практики GitHub Flow
-Отработка commti'ов в GitHub
+# About my first project on GitHub.
+Отработка практических навыков работы с GitHub.
+Загрузка файлов.
